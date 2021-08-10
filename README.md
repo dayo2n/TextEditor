@@ -22,7 +22,7 @@
 ### 📌 Design Pattern
 - Singleton
 
-### 📚 Library
+### 📚 Library (C/C++)
 - iostream
 - fstream
 - string.h
